@@ -14,15 +14,10 @@
     "start-dev": "nodemon -e ts,json,mustache src/server.ts"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suporteb7web/nodets-canil.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/suporteb7web/nodets-canil/issues"
-  },
-  "homepage": "https://github.com/suporteb7web/nodets-canil#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
